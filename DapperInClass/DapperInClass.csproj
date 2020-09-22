@@ -13,4 +13,8 @@
     <PackageReference Include="MySql.Data" Version="8.0.21" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.8" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Departments\" />
+    <Folder Include="Products\" />
+  </ItemGroup>
 </Project>
